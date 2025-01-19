@@ -1,10 +1,10 @@
 # atmega328p-TemperatureControl
-ATMega328P 를 사용한 온도조절기
+ATmega328P 를 사용한 온도조절기
 
 - IDE : MPLAB X IDE v6.20
 - Compiler : AVR-GCC v9.4.0
 - ATmega DFP : 3.1.246
-- Peprpherals : UART, ADC, GPIO, PWM, Timer, Internal EEPROM
+- Peprpherals : UART, ADC, GPIO, PWM, Timer, NTC, DS18B20, Internal EEPROM
 
 # I/O connections
 - NTC : ADC6
