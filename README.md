@@ -1,7 +1,7 @@
 # atmega328p-TemperatureControl
 ATmega328P 를 사용한 온도조절기
 
-- Auther : Kwon Taeyoung (xlink69@gmail.com)
+- Author : Kwon Taeyoung (xlink69@gmail.com)
 - IDE : MPLAB X IDE v6.20
 - Compiler : AVR-GCC v9.4.0
 - ATmega DFP : 3.1.246
